@@ -1,0 +1,6 @@
+com/app/farofino/BuildConfig.java
+ com.app.farofino.BuildConfig
+com/app/farofino/databinding/FragmentMainBinding.java
+ com.app.farofino.databinding.FragmentMainBinding
+com/app/farofino/databinding/ActivityMainBinding.java
+ com.app.farofino.databinding.ActivityMainBinding
